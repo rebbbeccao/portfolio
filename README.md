@@ -1,2 +1,3 @@
-# portfolio
-Rebecca Ann Olson's Portfolio
+# Practice Portfolio
+
+Basic HTML CSS practice
