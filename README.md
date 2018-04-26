@@ -1,3 +1,3 @@
 # Practice Portfolio
 
-Basic HTML CSS practice
+HTML CSS Basics
